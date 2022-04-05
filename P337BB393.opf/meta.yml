@@ -1,0 +1,85 @@
+id: P337BB393
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA24769
+  instance_id: http://purl.bdrc.io/resource/IE1KG14505
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གསུང་འབུམ། དགེ་འདུན་གྲུབ།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P80
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    7560c08d016e480b854da6ca232ee3a6:
+      title: པོད ༩་གསུང་འབུམ། དགེ་འདུན་གྲུབ།
+      volume_number: 9
+      base_file: UT1KG14505_I1KG15209_0000.txt
+      reference: http://purl.bdrc.io/resource/VLE37391255C2CB83E
+      image_group: I1KG15209
+      quality: Low
+    c7533e09364f4691a90fac0f68808532:
+      title: པོད ༡་གསུང་འབུམ། དགེ་འདུན་གྲུབ།
+      volume_number: 1
+      base_file: UT1KG14505_I1KG15201_0000.txt
+      reference: http://purl.bdrc.io/resource/VL8CF202A5A3A05AE1
+      image_group: I1KG15201
+      quality: Low
+    0cfa94bf6ddb40c0a5bb351c26bd321b:
+      title: པོད ༧་གསུང་འབུམ། དགེ་འདུན་གྲུབ།
+      volume_number: 7
+      base_file: UT1KG14505_I1KG15207_0000.txt
+      reference: http://purl.bdrc.io/resource/VLEE60AF0758264618
+      image_group: I1KG15207
+      quality: Low
+    6c9bf4178bde4afbbf26eeeb36a6ad6f:
+      title: པོད ༦་གསུང་འབུམ། དགེ་འདུན་གྲུབ།
+      volume_number: 6
+      base_file: UT1KG14505_I1KG15206_0000.txt
+      reference: http://purl.bdrc.io/resource/VLCEB551AAF1742D13
+      image_group: I1KG15206
+      quality: Low
+    ca9de22d09714b839a3c3e9cdef65a7e:
+      title: པོད ༣་གསུང་འབུམ། དགེ་འདུན་གྲུབ།
+      volume_number: 3
+      base_file: UT1KG14505_I1KG15203_0000.txt
+      reference: http://purl.bdrc.io/resource/VL90870F34D3BF3574
+      image_group: I1KG15203
+      quality: Low
+    c8b4e73b20fb473484bc11671b225cda:
+      title: པོད ༨་གསུང་འབུམ། དགེ་འདུན་གྲུབ།
+      volume_number: 8
+      base_file: UT1KG14505_I1KG15208_0000.txt
+      reference: http://purl.bdrc.io/resource/VLFDDAA05F6AE93F01
+      image_group: I1KG15208
+      quality: Low
+    4969b8bc99fe4ceb8ccad92a1881a1cb:
+      title: པོད ༢་གསུང་འབུམ། དགེ་འདུན་གྲུབ།
+      volume_number: 2
+      base_file: UT1KG14505_I1KG15202_0000.txt
+      reference: http://purl.bdrc.io/resource/VL9E1F75E8944F8950
+      image_group: I1KG15202
+      quality: Low
+    f3488b00e5534c4ebda4e14828c196a6:
+      title: པོད ༥་གསུང་འབུམ། དགེ་འདུན་གྲུབ།
+      volume_number: 5
+      base_file: UT1KG14505_I1KG15205_0000.txt
+      reference: http://purl.bdrc.io/resource/VL5CDCCEC541150890
+      image_group: I1KG15205
+      quality: Low
+    93782f67f0a3418eb1eefbd8b3f7aa11:
+      title: པོད ༤་གསུང་འབུམ། དགེ་འདུན་གྲུབ།
+      volume_number: 4
+      base_file: UT1KG14505_I1KG15204_0000.txt
+      reference: http://purl.bdrc.io/resource/VL6A75EE68A701226F
+      image_group: I1KG15204
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG14505
+  - http://purl.bdrc.io/resource/W1KG14505
+  ocr_software: Namsel
+created_at: '2021-12-24T17:10:55.842773'
+last_modified_at: '2021-12-24T17:10:55.842785'
